@@ -2,14 +2,14 @@
 ![Dominos Banner](https://miro.medium.com/max/1400/1*Pjilnt2CYNC6tiFSRP-8yQ.png)
 
 ## Details for the evaluation
-#### End Time: 21th March by 11:00 AM IST
+#### End Time: 21st March by 11:00 AM IST
 
 ### Submission
 Create your own public git repository and host your project on any free hosting sites.<br/>
 Refernces:<br/>
 1. https://www.netlify.com/
 2. https://www.heroku.com/<br/>
-### Submit the git repo link at talent@braina.live</b> on 21th March by 11:00 AM IST
+### Submit the git repo link at talent@braina.live</b> on 21st March by 11:00 AM IST
 
 ## Acceptable Stack
 Javascript, Mongo, Express, React, Node
