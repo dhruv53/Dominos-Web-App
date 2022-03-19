@@ -2,18 +2,17 @@
 ![Dominos Banner](https://miro.medium.com/max/1400/1*Pjilnt2CYNC6tiFSRP-8yQ.png)
 
 ## Details for the evaluation
-#### Start Time: 01:00 PM IST
-#### Duration: 3 Hours
+#### End Time: 20th March by 06:00 PM IST
+
 ### Submission
 Create your own public git repository and host your project on any free hosting sites.<br/>
-Refernces:
+Refernces:<br/>
 1. https://www.netlify.com/
 2. https://www.heroku.com/<br/>
-### Submit the git repo link at talent@braina.live</b> by 04:00 PM IST
+### Submit the git repo link at talent@braina.live</b> on 20th March by 06:00 PM IST
 
 ## Acceptable Stack
 Javascript, Mongo, Express, React, Node
-
 
 ## Problem Statement
 You are hired as a full stack developer for Dominos India. Your objective is to develop a MERN Stack application that will be used by the <b>Dominos staff</b> to accept and process customer orders. 
@@ -53,6 +52,7 @@ Display Complete Menu<br/><br/>
 3. Connect the frontend to the backend & database.
 4. Create a neat UI using react(use any designing library if required)
 5. Focus on authentication and data storage in the backend
+
 
 
 
